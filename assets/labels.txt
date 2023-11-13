@@ -1,0 +1,3 @@
+0 Viral Pneumo...
+1 Normal
+2 Covid-19
